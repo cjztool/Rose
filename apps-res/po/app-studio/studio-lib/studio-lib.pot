@@ -1,0 +1,996 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: studio-lib\n"
+"POT-Creation-Date: 2017-04-24 23:38+0800\n"
+"PO-Revision-Date: 2016-01-03 20:34+0800\n"
+"Last-Translator: ancientcc <ancientcc@leagor.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: _;vgettext2\n"
+"X-Poedit-Basepath: ../../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: apps-src/apps/studio\n"
+"X-Poedit-SearchPath-1: apps-res/po/app-studio/cfg-cpp/studio-lib\n"
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/data.cpp:1
+msgid "Chat module"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:1
+msgid "(bin)Checksum"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:3
+msgid "(wml)Checksum"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:5
+msgid "Append"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:7
+msgid "Automatic placement"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:9
+msgid "Best Size"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:11
+msgid "Ble peripheral"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:13
+msgid "Border"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:15
+msgid "Build"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:17
+msgid "Cancel"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:19
+msgid "Change the language"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:21
+msgid "Change type"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:23
+msgid "Change working directory"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:25
+msgid "Chat"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:27
+msgid "Click dismiss"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:29
+#: apps-src/apps/studio/gui/dialogs/new_theme.cpp:465
+msgid "Close"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:31
+msgid "Configure the game's settings"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:33
+msgid "Crop image"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:35
+msgid "Default color"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:37
+msgid "Default textdomain"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:39
+msgid "Delete"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:41
+msgid "Design"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:43
+msgid "Disable color"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:45
+msgid "Drawing setting"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:47
+msgid "Edit"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:49
+msgid "Enable gc"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:51
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:93
+msgid "Erase"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:53
+msgid "Execute"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:55
+msgid "File in res"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:57
+msgid "File in src"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:59
+msgid "File name"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:61
+msgid "Fixed height"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:63
+msgid "Fixed width"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:65
+msgid "Focus color"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:67
+msgid "Font size"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:69
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:682
+msgid "Gap"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:71
+msgid "Health kit"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:73
+msgid "Height"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:75
+msgid "Hide"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:77
+msgid "Horizontal layout"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:79
+msgid "Horizontal mode"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:81
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:1105
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:1196
+msgid "ID"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:83
+msgid "Interested drag"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:85
+msgid "Inverse color template"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:87
+msgid "Item focus color"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:89
+msgid "Item highlight color"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:91
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:92
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:94
+msgid "Linked group"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:93
+msgid "Linked_group setting"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:95
+msgid "Maybe multiline"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:97
+msgid "Menu focus color"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:99
+msgid "Mode"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:101
+msgid "Modify"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:103
+msgid "NO."
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:105
+msgid "Normal color"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:107
+msgid "Normal color template"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:109
+msgid "OK"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:111
+msgid "Other color"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:113
+msgid "Ownership"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:115
+msgid "Param"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:117
+msgid "Pixel"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:119
+msgid "Profile player hero"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:121
+msgid "Reference widget's id"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:123
+msgid "Refresh"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:125
+msgid "Report's id"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:127
+msgid "Shape of map tile "
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:129
+msgid "Start the dialog editor"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:131
+msgid "Submenu"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:133
+#: apps-src/apps/studio/gui/dialogs/design.cpp:157
+msgid "Terrain filename(Exclude '.png')"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:135
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:128
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:853
+#: apps-src/apps/studio/mkwin_controller.cpp:1522
+#: apps-src/apps/studio/mkwin_controller.cpp:2241
+msgid "Theme"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:137
+msgid "Title color template"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:139
+#: apps-src/apps/studio/gui/dialogs/design.cpp:133
+msgid "Transition filename prefix(Include '-' if necessary)"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:141
+msgid "Unit height"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:143
+msgid "Unit width"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:145
+msgid "Vertical layout"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:147
+msgid "Vertical mode"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:149
+msgid "Width"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:151
+msgid "app"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:153
+msgid "definition"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:155
+msgid "grow_factor"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:157
+msgid "height"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:159
+msgid "id"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:161
+msgid "indention_step_size"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:163
+msgid "label"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:165
+msgid "node's id"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:167
+msgid "rect"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:169
+msgid "text_box's definition"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:171
+msgid "tooltip"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:173
+msgid "widget^definition"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:175
+msgid "width"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:177
+msgid "x"
+msgstr ""
+
+#: apps-res/po/app-studio/cfg-cpp/studio-lib/gui.cpp:179
+msgid "y"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/capabilities.cpp:64
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:841
+msgid "New app"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/capabilities.cpp:66
+msgid "Edit app capabilities"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:56
+msgid "Invalid '$id' value!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:64
+msgid "Must not empty."
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:76
+msgid "Error $id expression!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:96
+msgid "Align left. Maybe stretch"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:98
+msgid "Align left"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:100
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:111
+msgid "Align center"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:102
+msgid "Align right"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:107
+msgid "Align top. Maybe stretch"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:109
+msgid "Align top"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:113
+msgid "Align bottom"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:118
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:125
+msgid "Always invisible"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:120
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:127
+msgid "Auto visible"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:134
+msgid "Auto"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:135
+msgid "Landscape"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:136
+msgid "Portrait"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:181
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:93
+msgid "Base"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:182
+msgid "Size"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:183
+msgid "Advanced"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:415
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:1159
+msgid "Multi line report"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:415
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:1159
+msgid "Tabbar"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:418
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:422
+msgid "Usable variable: screen_width, screen_height"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:639
+#: apps-src/apps/studio/gui/dialogs/drawing_setting.cpp:124
+msgid "Can not empty!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:650
+msgid "Maximum value must large than minimum value!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:656
+msgid "Step size must > 0!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:660
+msgid "Step size must < maximum_value - minimum_value!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:682
+msgid "must not be less than 0!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:897
+msgid "Max size"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/control_setting.cpp:899
+msgid "Best size"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/design.cpp:96
+msgid "Work directory"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/design.cpp:101
+msgid "Input filename"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/design.cpp:135
+msgid "Stuff filename prefix(Include '-' if necessary)"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/design.cpp:137
+msgid "Cropped filename prefix. full filename: <prefix>-topleft.png"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/design.cpp:163
+msgid "OFFSET_SIDE_1, OFFSET_SIDE_2, MID_W, MID_H"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/design.cpp:195
+msgid "Invalid '$key' value, not accept empty"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/design.cpp:204
+msgid "'$key' value must combine $min to $max characters"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/design.cpp:206
+msgid "'$key' value must be $min characters"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/design.cpp:250
+msgid "Can not find input.png"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/design.cpp:261
+msgid "First edit box input"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/design.cpp:266
+msgid "Second edit box input"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/example1.cpp:21
+msgid "Hello World"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/linked_group.cpp:174
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:888
+msgid "String is using."
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/linked_group.cpp:186
+msgid "Both width and height must not be all No!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:79
+msgid "Select"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:80
+msgid "Status"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:81
+msgid "Grid"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:82
+msgid "Right Click"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:86
+#: apps-src/apps/studio/gui/dialogs/new_window.cpp:38
+msgid "scene"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:86
+#: apps-src/apps/studio/gui/dialogs/new_window.cpp:38
+msgid "dialog"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:88
+msgid "Build gui.bin"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:89
+msgid "Preview"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:90
+msgid "Settings"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:91
+msgid "Special Setting"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:95
+msgid "Insert top"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:96
+msgid "Inert bottom"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:97
+msgid "Erase row"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:98
+msgid "Insert left"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:99
+msgid "Insert right"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:100
+msgid "Erase column"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:102
+msgid "Insert child"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:103
+msgid "Erase child"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:105
+msgid "Unpack"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/mkwin_scene.cpp:130
+#: apps-src/apps/studio/mkwin_controller.cpp:1522
+#: apps-src/apps/studio/mkwin_controller.cpp:2243
+msgid "Dialog"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/new_theme.cpp:53
+msgid "$app|'s thems"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/new_theme.cpp:353
+msgid "There is invalid value in current theme."
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/new_theme.cpp:458
+msgid "Do you really want to close?"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/new_theme.cpp:462
+msgid "Changes in the themes since the last save will be lost."
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/new_window.cpp:41
+msgid "New $window to $app"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/new_window.cpp:49
+msgid "Create"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/new_window.cpp:212
+msgid "Don't create unit_map.cpp, unit_map.hpp, unit.cpp and unit.hpp."
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:135
+msgid "V"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:137
+msgid "Version"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:465
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:588
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:616
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:632
+msgid "Fail"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:466
+msgid "New $app, $result."
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:522
+msgid "New dialog(id = $id) to $app fail!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:574
+msgid "Do you want to export $app package to $dst?"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:588
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:616
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:632
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1222
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1250
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1271
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1283
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1294
+msgid "Success"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:590
+msgid "Export $app package from \"$src\" to \"$dst\", $result!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:618
+msgid "Copy $app|'s resource from \"$src\" to \"$dst\", $result!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:634
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1296
+msgid "Create iOS kit on \"$dst\", $result!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:667
+msgid "Unknown Rose version in $res. Can not import."
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:670
+msgid "Work Kit's Rose version is less than in $res. Can not import."
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:747
+msgid "Import $app from $res fail!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:750
+msgid "There is no importable app in $res!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:843
+msgid "Import app"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:851
+msgid "New dialog"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:852
+msgid "New scene"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:859
+msgid "Export"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:860
+msgid "Edit capabilities"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:861
+msgid "Copy resource to android's apk"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:863
+msgid "Remove"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:876
+msgid "Create iOS kit"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:878
+msgid "Tools"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:910
+msgid "Choose resource directory of Work Kit or App Package"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:923
+msgid "Do you want to import app from $src?"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1000
+msgid "Do you want to copy $app|'s resource to .apk?"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1022
+msgid "Do you want to remove $app from work kit?"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1050
+msgid "Do you want to create iOS kit on $dst?"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1068
+msgid "Choose a Working Directory to Build"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1224
+msgid "Export App Package from \"$src\" to \"$dst successfully!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1239
+msgid "Import $apps from \"$src\" successfully."
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1252
+msgid "New $app, $result!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1253
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1274
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1286
+msgid "If you are runing Visual Studio and opening apps.sln, please execute \"Close Solution\", then open again."
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1273
+msgid "Remove $app, $result!"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/rose.cpp:1285
+msgid "New dialog(id = $id) to $app successfully."
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:73
+msgid "Window setting"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:95
+msgid "Context menu"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:96
+msgid "Float widget"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:305
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:308
+msgid "Usable variable: ref_width, ref_height, width, height"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:824
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:827
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:830
+msgid "Yes"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:1068
+msgid "Parent menu $menu"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:1105
+msgid "New float widget"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:1147
+msgid "Do you want to erase this float widget?"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:1193
+msgid "Original ID"
+msgstr ""
+
+#: apps-src/apps/studio/gui/dialogs/window_setting.cpp:1196
+msgid "Rename float widget"
+msgstr ""
+
+#: apps-src/apps/studio/main.cpp:80
+msgid "Rose Studio"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:646
+msgid "Preivew"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:687
+msgid "Back to design"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:881
+msgid "$id holds grid that not all spacer. Do you want to delete?"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1079
+msgid "On scene top, duplicated '$id' value!"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1082
+msgid "widget($widget) is on scene top, must set rect!"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1088
+msgid "Widget on top layer has error. Be back top to get error detail."
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1095
+msgid "Widget on second layer has error. Go into $widget to get error detail."
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1097
+msgid "Another widget on top layer has error. Be back top to get error detail."
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1111
+msgid "widget($widget) has all spacer layer!"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1163
+msgid "Window isn't ready!"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1207
+#: apps-src/apps/studio/mkwin_controller.cpp:1436
+msgid "Save"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1209
+msgid "Load"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1215
+msgid "Save As"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1218
+msgid "Preferences"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1221
+#: apps-src/apps/studio/mkwin_controller.cpp:1526
+msgid "Quit"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1317
+msgid "Choose a Window to Open"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1319
+msgid "gui/scene"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1321
+#: apps-src/apps/studio/mkwin_controller.cpp:1440
+msgid "gui/window"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1343
+msgid "Invalid dialog cfg file!"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1436
+msgid "Choose a Window to Save"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1438
+msgid "data/themes"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1519
+msgid "Do you really want to quit?"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1523
+msgid "Changes in the $window since the last save will be lost."
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_controller.cpp:1576
+msgid "Once unpake, can not be back to template. Do you want to unpake $id?"
+msgstr ""
+
+#: apps-src/apps/studio/mkwin_display.cpp:52
+msgid "Cannot find widget definition(id: $id, type: $type, definition: $definition)! Force to use definition $default."
+msgstr ""
